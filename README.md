@@ -1,50 +1,53 @@
 <div align="center">
 
-<!-- Smaller Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sujan+Suresh+Poojary;Computer+Science+Student;Java+%7C+MERN+Stack+Learner;Backend+Enthusiast+%7C+Problem+Solver" />
+<!-- Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sujan+Suresh+Poojary;Computer+Science+Student;Java+%7C+MERN+Stack+Developer;Backend+Enthusiast+%7C+Problem+Solver" />
 
-<br/>
+<br>
 
-
-<!-- Short Tagline -->
-<p style="font-size:15px; color:#8B949E;">
-Full-Stack Developer • Backend Enthusiast • Problem Solver
+<p style="color:#8B949E; font-size:15px;">
+Passionate about building scalable web applications and solving real-world problems
 </p>
 
-<!-- Divider -->
-<hr style="width:60%; border:0.5px solid #30363D;">
+<br>
 
-<!-- Core Points (compact like your reference) -->
-<p align="left" style="max-width:600px; margin:auto; font-size:15px;">
-
-🚀 Building scalable backend systems with Node.js <br/>
-🎨 Creating modern UIs with React & TailwindCSS <br/>
-🔐 Understanding authentication & security best practices <br/>
-📱 Designing mobile-responsive applications <br/>
-⚡ Optimizing performance for better user experience
-
-</p>
+<!-- Minimal Social Icons (cleaner) -->
+<a href="https://github.com/SujanSp27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/sujanpoojary27">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:poojarysujan77@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 💫 About Me
-- 🔭 Building MERN stack applications  
+## 👨‍💻 About Me
+
+- 💻 Full-Stack Developer (MERN)  
+- ⚙️ Backend Enthusiast (Node.js, Express)  
+- 🧠 Strong in Problem Solving & Logical Thinking  
+- 🌱 Learning advanced backend & AI basics  
 - 🤝 Open to collaborations & open-source  
-- 🌱 Learning advanced backend + AI basics  
-- 💬 Ask me about Java, MERN stack  
-- 💡 Interested in solving real-world problems using technology  
+- 💡 Focused on solving real-world problems  
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanpoojary27)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojarysujan77@gmail.com)
+## 🚀 What I Do
+
+- 🚀 Build scalable backend systems  
+- 🎨 Develop modern UIs with React & TailwindCSS  
+- 🔐 Implement authentication & security  
+- 📱 Design responsive applications  
+- ⚡ Optimize performance & efficiency  
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,29 +56,27 @@ Full-Stack Developer • Backend Enthusiast • Problem Solver
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🗄️ Databases
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -87,17 +88,18 @@ Full-Stack Developer • Backend Enthusiast • Problem Solver
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujansp27&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=00D9FF" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujansp27&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=00D9FF" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujansp27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/sujansp27)
+[![Sujan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sujansp27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/sujansp27)
 
 </div>
 
 ---
+
 
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -105,4 +107,4 @@ Full-Stack Developer • Backend Enthusiast • Problem Solver
 ---
 
 ## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=SujanSp27&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SujanSp27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
