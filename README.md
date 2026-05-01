@@ -109,5 +109,7 @@ Passionate about building scalable web applications and solving real-world probl
 ## 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=SujanSp27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 <div align="center">
+  
 ![snake gif](https://github.com/SujanSp27/SujanSp27/blob/output/github-snake-dark.svg)
+
 </div>
