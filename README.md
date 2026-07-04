@@ -6,7 +6,7 @@
 <br>
 
 <p style="color:#8B949E; font-size:15px;">
-Passionate about building scalable web applications and solving real-world problems
+Passionate about backend engineering, real-time applications, and solving real-world problems
 </p>
 
 <br>
