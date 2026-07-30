@@ -28,22 +28,11 @@ Passionate about backend engineering, real-time applications, and solving real-w
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer (MERN)  
-- ⚙️ Backend Enthusiast (Node.js, Express)  
-- 🧠 Strong in Problem Solving & Logical Thinking  
-- 🌱 Learning advanced backend & AI basics  
-- 🤝 Open to collaborations & open-source  
-- 💡 Focused on solving real-world problems  
+I'm a Computer Science Engineering student passionate about building scalable backend systems and full-stack web applications. I enjoy designing clean APIs, solving complex programming challenges, and developing software that delivers real-world value.
 
----
+My primary expertise lies in **Java**, **Spring Boot**, and the **MERN Stack**, with hands-on experience building authentication systems, RESTful APIs, real-time applications, and database-driven solutions.
 
-## 🚀 What I Do
-
-- 🚀 Build scalable backend systems  
-- 🎨 Develop modern UIs with React & TailwindCSS  
-- 🔐 Implement authentication & security  
-- 📱 Design responsive applications  
-- ⚡ Optimize performance & efficiency  
+Currently, I'm strengthening my skills in **Data Structures & Algorithms**, **backend architecture**, and **system design** while actively seeking opportunities to contribute to impactful software projects.
 
 ---
 
