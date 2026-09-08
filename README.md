@@ -101,7 +101,6 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms**, **ba
 
 [![Sujan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sujansp27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/sujansp27)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SujanSp27&left_text=Profile%20Views&color=6366f1" />
 </div>
 
 ---
