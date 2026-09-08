@@ -21,8 +21,8 @@ Passionate about backend engineering, real-time applications, and solving real-w
 <a href="mailto:poojarysujan77@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-
 </div>
+
 
 ---
 
@@ -101,6 +101,7 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms**, **ba
 
 [![Sujan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sujansp27&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/sujansp27)
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SujanSp27&left_text=Profile%20Views&color=6366f1" />
 </div>
 
 ---
