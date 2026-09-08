@@ -118,4 +118,7 @@ Currently, I'm strengthening my skills in **Data Structures & Algorithms**, **ba
   
 ![snake gif](https://github.com/SujanSp27/SujanSp27/blob/output/github-snake-dark.svg)
 
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SujanSp27&left_text=Profile%20Views&color=6366f1" />
+
 </div>
