@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Typing Intro -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sujan+Suresh+Poojary;Computer+Science+Student;Java+%7C+MERN+Stack+Developer;Backend+Enthusiast+%7C+Problem+Solver" />
 
 <br>
@@ -11,7 +10,6 @@ Passionate about backend engineering, real-time applications, and solving real-w
 
 <br>
 
-<!-- Minimal Social Icons (cleaner) -->
 <a href="https://github.com/SujanSp27">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
